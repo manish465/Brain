@@ -23,12 +23,14 @@
             "id": "722a8d4b67648d24",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Game Idea - War Profiter.md"
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Game Idea - War Profiter"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           },
           {
@@ -101,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "121a5787b96e560f",
@@ -210,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5,
-    "collapsed": true
+    "width": 563.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +231,7 @@
   "active": "722a8d4b67648d24",
   "lastOpenFiles": [
     "Excalidraw/Game Idea - War Profiter.md",
+    "Repo",
     "67. Add Binary.md",
     "Project Idea.md",
     "Excalidraw",
@@ -255,7 +258,6 @@
     "684. Redundant Connection.md",
     "1,2,3],[4,5,6],[7,8,9.md",
     "Introduction to Rust.md",
-    "Systems programming.md",
     "Pasted image 20250218232726.png",
     "Pasted image 20250218232740.png",
     "Pasted image 20250218193434.png",
