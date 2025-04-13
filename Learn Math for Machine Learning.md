@@ -1,0 +1,27 @@
+---
+tags:
+  - ML
+  - Math
+  - AI
+---
+-  [[Linear Algebra]]
+- [[Matrices]]
+- [[Vectors]]
+- [[Determinants]]
+- [[Inverses]]
+- [[Eigen Values]]
+- [[Eigen Vectors]]
+- [[Matrix Decomposition]] 
+- [[Basic Calculus]]
+- [[Derivatives]]
+- [[Gradients]]
+- [[Optimization Basics]] 
+- [[Statistics]]
+- [[Probability]] 
+- [[Distributions]]
+- [[Variance]]
+- [[Covariance]]
+- [[baye's Theorem]]
+- [[Maximum Likelihood Estimation]]
+- [[Sampling]]
+- [[Conditional Probability]] 

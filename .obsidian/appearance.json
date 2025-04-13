@@ -1,0 +1,8 @@
+{
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

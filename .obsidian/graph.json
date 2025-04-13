@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#TODO",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#project  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#interview-prep  ",
+      "color": {
+        "a": 1,
+        "rgb": 1773272
+      }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 14103489
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.8,
+  "nodeSizeMultiplier": 3.06041666666667,
+  "lineSizeMultiplier": 1.68229166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.34375,
+  "repelStrength": 20,
+  "linkStrength": 0.276041666666667,
+  "linkDistance": 500,
+  "scale": 0.07058167567046518,
+  "close": true
+}
