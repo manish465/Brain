@@ -1,5 +1,4 @@
 ### Description
-
 A [[Spring boot]] Backend that showcase Role Base Authorization, Whenever we hit a request, it will go to API Gateway and the API Gateway will check for Authentication and Authorization.
 ### Scope
 - user management
@@ -21,4 +20,11 @@ The Role Based Authorization System will consist of multiple microservices that 
 System will have this following microservices:
 - User Service
 - School Service
-- API Gatewa
+- API Gateway
+### User Roles
+- MANAGMENT
+- TEACHER
+- STUDENT
+- ADMIN
+
+[[Role Based Authorization - HLD]]

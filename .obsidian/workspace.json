@@ -46,6 +46,18 @@
               "icon": "lucide-file",
               "title": "Role Based Authorization"
             }
+          },
+          {
+            "id": "0a7a92e77f9aae94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Role Based Authorization - HLD.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Role Based Authorization - HLD"
+            }
           }
         ],
         "currentTab": 2
@@ -233,6 +245,7 @@
   },
   "active": "1c6729045b8c3bb8",
   "lastOpenFiles": [
+    "Excalidraw/Role Based Authorization - HLD.md",
     "Role Based Authorization.md",
     "Project Idea.md",
     "2025-04-10.md",
@@ -261,7 +274,6 @@
     "OkHttp.md",
     "Rust.md",
     "Rust Concurrency and Asynchronous Programming.md",
-    "Rust Traits and Generics.md",
     "Pasted image 20250218232726.png",
     "Pasted image 20250218232740.png",
     "Pasted image 20250218193434.png",
