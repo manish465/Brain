@@ -26,3 +26,4 @@ System will have this following microservices:
 - TEACHER
 - STUDENT
 - ADMIN
+- GUEST
