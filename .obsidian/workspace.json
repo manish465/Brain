@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "DBMS"
             }
+          },
+          {
+            "id": "aa5d84470f1f88de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "241c2e18b701fbba",
+  "active": "aa5d84470f1f88de",
   "lastOpenFiles": [
     "DBMS.md",
     "Project Idea.md",
