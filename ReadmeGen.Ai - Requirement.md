@@ -4,4 +4,5 @@ The application leverages a Large Language Model (LLM) to create human-readable 
 
 The goal is to save developers time, improve project onboarding, and ensure that even minimal or undocumented repositories have presentable, informative README files.
 ## Scope
-
+- Generator Service : Will take a link to repository and return a `Readme.md`
+- Prompt Service : Will take a link to repository and return a prompt for it
