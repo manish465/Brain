@@ -6,7 +6,7 @@ tags:
 - [[Game Idea - War Profiter]]
 - [[Role Based Authorization]]
 - [[Event Management System]]
-- [[Git Readme]]
+- [[ReadmeGen.Ai]]
 - [[Obsidian like AI learning tool]]
 - [[A recommendation system that works on encrypted data]]
 - [[Big ambition like sim]]
