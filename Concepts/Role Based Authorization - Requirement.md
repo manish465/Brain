@@ -1,5 +1,5 @@
 ### Description
-A [[Spring boot]] Backend that showcase Role Base Authorization, Whenever we hit a request, it will go to API Gateway and the API Gateway will check for Authentication and Authorization.
+A [[Spring Boot]] Backend that showcase Role Base Authorization, Whenever we hit a request, it will go to API Gateway and the API Gateway will check for Authentication and Authorization.
 ### Scope
 - user management
 	- add a user

@@ -8,7 +8,7 @@ SQL (**Structured Query Language**) is a standard language used to interact with
 2. **Standardized** – Used by most relational databases like [[MySQL]], [[PostgreSQL|Postgre SQL]], SQL Server, and Oracle.
 3. **Powerful Data Handling** – Supports [[CRUD operations]] (Create, Read, Update, Delete).
 4. **Supports Transactions** – Ensures **[[ACID]]** (Atomicity, Consistency, Isolation, Durability) compliance.
-5. **Security Features** – Includes user [[authentication]], role-based access, and [[encryption]].
+5. **Security Features** – Includes user [[Authentication]], role-based access, and [[encryption]].
 
 ### **SQL Commands (Types)**
 

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Idea.md",
+                "file": "Projects/Project Idea.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,37 +34,8 @@
               "icon": "lucide-file",
               "title": "Project Idea"
             }
-          },
-          {
-            "id": "c9034c456bd7784b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadmeGen.Ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReadmeGen.Ai"
-            }
-          },
-          {
-            "id": "e662a8edbb7dbfa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadmeGen.Ai - Requirement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReadmeGen.Ai - Requirement"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Database",
+                "query": "tag:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "121a5787b96e560f",
@@ -231,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5,
-    "collapsed": true
+    "width": 563.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,48 +216,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e662a8edbb7dbfa0",
+  "active": "39a751ef8f9be6ec",
   "lastOpenFiles": [
-    "ReadmeGen.Ai.md",
-    "ReadmeGen.Ai - Requirement.md",
-    "Role Based Authorization - Requirement.md",
-    "Project Idea.md",
-    "Role Based Authorization.md",
-    "Social Media Project - Example.md",
-    "DBMS.md",
-    "MySQL.md",
-    "SQL.md",
-    "Sharding.md",
-    "Replication.md",
-    "ACID.md",
-    "Kong Gateway.md",
-    "Create a Req/Res reader for a system.md",
+    "Dsa/2. Add Two Numbers.md",
+    "Projects/Project Idea.md",
+    "Daily/2025-04-30.md",
+    "Daily/2025-05-07.md",
+    "Dsa/167. Two Sum II - Input Array Is Sorted.md",
+    "Dsa/153. Find Minimum in Rotated Sorted Array.md",
+    "Dsa/62. Unique Paths.md",
+    "Dsa/128. Longest Consecutive Sequence.md",
+    "Dsa/416. Partition Equal Subset Sum.md",
+    "Dsa/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
+    "Dsa/70. Climbing Stairs.md",
+    "Daily/2025-04-29.md",
+    "Dsa/5. Longest Palindromic Substring.md",
+    "Dsa/846. Hand of Straights.md",
+    "Dsa/36. Valid Sudoku.md",
+    "Daily/2025-04-28.md",
+    "Dsa/543. Diameter of Binary Tree.md",
+    "Dsa/973. K Closest Points to Origin.md",
+    "Concepts/Pasted image 20250420141827.png",
+    "Projects",
+    "Concepts/ACID.md",
+    "Daily/2025-04-23.md",
+    "Concepts",
+    "Untitled.md",
+    "Dsa/739. Daily Temperatures.md",
+    "Dsa/1143. Longest Common Subsequence.md",
+    "Daily/2025-04-15.md",
+    "Dsa/97. Interleaving String.md",
+    "Daily/2025-04-10.md",
+    "Concepts/Pasted image 20250218143952.png",
+    "Concepts/Pasted image 20250218130700.png",
+    "Concepts/Pasted image 20250218143949.png",
+    "Concepts/Pasted image 20250218232726.png",
+    "Concepts/Pasted image 20250218193434.png",
+    "Concepts/Pasted image 20250218151730.png",
+    "Concepts/Pasted image 20250218151651.png",
+    "Concepts/Pasted image 20250218151635.png",
+    "Concepts/Pasted image 20250218151343.png",
+    "Dsa",
+    "Daily",
     "Create a Req",
-    "Pasted image 20250420141827.png",
-    "Pasted image 20250420135613.png",
-    "Excalidraw/Role Based Authorization - HLD.md",
-    "Excalidraw/Role Based Authorization - ER.md",
-    "Pasted image 20250420141632.png",
-    "Pasted image 20250420135434.png",
-    "Role Based Authorization - Requirment.md",
-    "Excalidraw/Social Media Project - Example - ER Diagram.md",
     "Excalidraw/er-diagram.excalidraw",
-    "Excalidraw/Game Idea - War Profiter.md",
-    "Social Media Project - Example - Requirement.md",
-    "2025-04-10.md",
-    "143. Reorder List.md",
-    "355. Design Twitter.md",
-    "2025-04-08.md",
-    "20. Valid Parentheses.md",
-    "46. Permutations.md",
     "Repo",
     "Excalidraw",
-    "Game Idea - War Profiter.canvas",
-    "Pasted image 20250218232726.png",
-    "Pasted image 20250218232740.png",
-    "Pasted image 20250218193434.png",
-    "Pasted image 20250218193941.png",
-    "Pasted image 20250218151730.png",
-    "Pasted image 20250218151651.png"
+    "Game Idea - War Profiter.canvas"
   ]
 }

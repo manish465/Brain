@@ -3,7 +3,7 @@ tags:
   - Gateway
   - backend
 ---
-Kong Gateway is an API gateway and service mesh designed to manage, secure, and optimize API traffic. It's built on **NGINX and Lua**, making it lightweight and highly performant. It supports **plugins for [[authentication]], [[rate limiting]], [[logging]], and [[monitoring]]**, and can be deployed in **hybrid, multi-cloud, and [[Kubernetes]] environments**.
+Kong Gateway is an API gateway and service mesh designed to manage, secure, and optimize API traffic. It's built on **NGINX and Lua**, making it lightweight and highly performant. It supports **plugins for [[Authentication]], [[rate limiting]], [[logging]], and [[monitoring]]**, and can be deployed in **hybrid, multi-cloud, and [[Kubernetes]] environments**.
 
 ### **Key Features**
 
