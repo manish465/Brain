@@ -35,8 +35,7 @@
               "title": "Project Idea"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b27aecc4e0b7ab35",
+  "active": "39a751ef8f9be6ec",
   "lastOpenFiles": [
+    "Projects/Project Idea.md",
     "Google Maps System Design.md",
     "Yelp System Design.md",
-    "Projects/Project Idea.md",
     "Concepts/Sharding.md",
     "Dsa/2. Add Two Numbers.md",
     "Daily/2025-04-30.md",
