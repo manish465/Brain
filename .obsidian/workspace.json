@@ -35,7 +35,8 @@
               "title": "Project Idea"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5
+    "width": 563.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39a751ef8f9be6ec",
+  "active": "b27aecc4e0b7ab35",
   "lastOpenFiles": [
-    "Dsa/2. Add Two Numbers.md",
+    "Google Maps System Design.md",
+    "Yelp System Design.md",
     "Projects/Project Idea.md",
+    "Concepts/Sharding.md",
+    "Dsa/2. Add Two Numbers.md",
     "Daily/2025-04-30.md",
     "Daily/2025-05-07.md",
     "Dsa/167. Two Sum II - Input Array Is Sorted.md",
@@ -241,12 +246,9 @@
     "Concepts/ACID.md",
     "Daily/2025-04-23.md",
     "Concepts",
-    "Untitled.md",
     "Dsa/739. Daily Temperatures.md",
     "Dsa/1143. Longest Common Subsequence.md",
     "Daily/2025-04-15.md",
-    "Dsa/97. Interleaving String.md",
-    "Daily/2025-04-10.md",
     "Concepts/Pasted image 20250218143952.png",
     "Concepts/Pasted image 20250218130700.png",
     "Concepts/Pasted image 20250218143949.png",
