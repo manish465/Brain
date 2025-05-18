@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Project Idea"
             }
+          },
+          {
+            "id": "2e36142026002988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability & Statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability & Statistics"
+            }
+          },
+          {
+            "id": "b13d832d609838ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mean and Variance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mean and Variance"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "121a5787b96e560f",
@@ -219,14 +246,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b27aecc4e0b7ab35",
+  "active": "b13d832d609838ac",
   "lastOpenFiles": [
+    "Pasted image 20250518155028.png",
+    "Mean and Variance.md",
+    "Probability & Statistics.md",
+    "Projects/Project Idea.md",
+    "Linear Algebra.md",
+    "Eigenvalues & Eigenvectors.md",
+    "Matrices.md",
+    "Vectors.md",
     "System Design App.md",
     "System Design Interview.md",
-    "Projects/Project Idea.md",
+    "System Design App - Requirement.md",
+    "Concepts/Personal Projects.md",
     "Software Design.md",
     "User Story driven design approach.md",
-    "System Design App - Requirement.md",
     "Concepts/Social Media Project - Example.md",
     "Concepts/Learn Math for Machine Learning.md",
     "Google Maps System Design.md",
@@ -239,14 +274,6 @@
     "Dsa/153. Find Minimum in Rotated Sorted Array.md",
     "Dsa/62. Unique Paths.md",
     "Dsa/128. Longest Consecutive Sequence.md",
-    "Dsa/416. Partition Equal Subset Sum.md",
-    "Dsa/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "Dsa/70. Climbing Stairs.md",
-    "Daily/2025-04-29.md",
-    "Dsa/5. Longest Palindromic Substring.md",
-    "Dsa/846. Hand of Straights.md",
-    "Dsa/36. Valid Sudoku.md",
-    "Daily/2025-04-28.md",
     "Concepts/Pasted image 20250420141827.png",
     "Projects",
     "Concepts",
