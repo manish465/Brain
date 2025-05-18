@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "121a5787b96e560f",
@@ -220,8 +221,13 @@
   },
   "active": "b27aecc4e0b7ab35",
   "lastOpenFiles": [
-    "Concepts/Social Media Project - Example.md",
+    "System Design App.md",
+    "System Design Interview.md",
     "Projects/Project Idea.md",
+    "Software Design.md",
+    "User Story driven design approach.md",
+    "System Design App - Requirement.md",
+    "Concepts/Social Media Project - Example.md",
     "Concepts/Learn Math for Machine Learning.md",
     "Google Maps System Design.md",
     "Yelp System Design.md",
@@ -241,14 +247,9 @@
     "Dsa/846. Hand of Straights.md",
     "Dsa/36. Valid Sudoku.md",
     "Daily/2025-04-28.md",
-    "Dsa/543. Diameter of Binary Tree.md",
-    "Dsa/973. K Closest Points to Origin.md",
     "Concepts/Pasted image 20250420141827.png",
     "Projects",
-    "Concepts/ACID.md",
-    "Daily/2025-04-23.md",
     "Concepts",
-    "Dsa/739. Daily Temperatures.md",
     "Concepts/Pasted image 20250218143952.png",
     "Concepts/Pasted image 20250218130700.png",
     "Concepts/Pasted image 20250218143949.png",

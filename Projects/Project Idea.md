@@ -19,4 +19,4 @@ tags:
 - [[Create a node based Algo Visualizer in React]]
 - [[Create A Game Engine]]
 - [[A better and friendly API Gateway]]
-- [[Create System Design Practice Application]]
+- [[System Design App]]
